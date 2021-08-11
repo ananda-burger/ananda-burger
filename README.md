@@ -1,3 +1,5 @@
+<img src='https://ik.imagekit.io/z9fjicafx6e/Pages/profile_iyPb4KMno5G.jpg?updatedAt=1628715828926' alt='Self Portrait'/>
+
 # About me
 Architect by profession, developer and artist by passion.
 
