@@ -11,8 +11,10 @@ I believe technology can increase people's quality of life and I am excited to b
 # :cyclone: Tech Stack
 - Node
 - React
+- Redux
 - HTML
 - CSS
+- Styled Components
 - Next.js
 - MongoDB
 - Git
