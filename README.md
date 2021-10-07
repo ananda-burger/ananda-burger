@@ -10,6 +10,7 @@ I believe technology can increase people's quality of life and I am excited to b
 
 # :cyclone: Tech Stack
 - Node
+- Typescript
 - React
 - Redux
 - HTML
@@ -28,6 +29,13 @@ In [my personal gallery](https://ma-galerie.netlify.app/) you can check out the 
 
 Technologies used: React, Next.js, HTML, CSS, Jest (unit tests).
 
+### Maneezer - Music preview streaming application
+  This application uses Deezer's API to stream music previews, list top tracks, user's favorite tracks as well as search tracks available on Deezer.
+
+  Check out [Maneezer](https:maneezer.netlify.app/) to see the results of my Redux and Typescript studies.
+
+  Techstack: Typescript, Redux Toolkit, styled components, HTML, CSS, Deezer SDK, Netlify.
+
 # :fish_cake: Hobbies
 - Drawing
 - Hiking
@@ -38,4 +46,4 @@ Technologies used: React, Next.js, HTML, CSS, Jest (unit tests).
 
 <img src="https://ik.imagekit.io/z9fjicafx6e/Media_Icons/email_15c-n7fKo.jpeg?updatedAt=1628720021953" alt="Email logo" height="20px"/>  aburger.ananda@gmail.com
 
-<img src="https://ik.imagekit.io/z9fjicafx6e/Media_Icons/instagram_Ookm0B7fpuM.jpeg?updatedAt=1628720021975" alt="Instagram logo" height="20px"/>  https://www.instagram.com/pulgaburger.art/
+<img src="https://ik.imagekit.io/z9fjicafx6e/Media_Icons/instagram_Ookm0B7fpuM.jpeg?updatedAt=1628720021975" alt="Instagram logo" height="20px"/>  https://www.instagram.com/pulga.pistola/
