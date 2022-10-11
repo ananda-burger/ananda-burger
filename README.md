@@ -1,12 +1,9 @@
 <img src="https://ik.imagekit.io/z9fjicafx6e/Pages/prof-compr_Y-eYrXo3zdV.jpg?updatedAt=1628716701256" alt="Self Portrait"/>
 
 # :sparkles: About me
-Architect by profession, developer and artist by passion.
+Frontend developer with a T profile working with Python and postgres. 
 
-I am currently transitioning from Architecture to IT, looking for opportunities as back-end or front-end developer in an inclusive and healthy environment.
-
-I believe technology can increase people's quality of life and I am excited to be a dev who can contribute to that.
-
+Currently working at Evolux Sistemas, with a product that that involves contact center as a service (ccaas).
 
 # :cyclone: Tech Stack
 - Node
@@ -22,14 +19,14 @@ I believe technology can increase people's quality of life and I am excited to b
 - _Currently learning TDD_
 
 # :fire: Projects
-### My personal art gallery
+### - My personal art gallery
  I am an artist on my spare time and I am always looking to combine my dev skills with art. I truly believe art can make everything more beautiful and IT is no exception to that ;)
  
 In [my personal gallery](https://ma-galerie.netlify.app/) you can check out the result of some of my **front-end studies**.
 
 Technologies used: React, Next.js, HTML, CSS, Jest (unit tests).
 
-### Maneezer - Music preview streaming application
+### - Maneezer - Music preview streaming application
   This application uses Deezer's API to stream music previews, list top tracks, user's favorite tracks as well as search tracks available on Deezer.
 
   Check out [Maneezer](https:maneezer.netlify.app/) to see the results of my Redux and Typescript studies.
